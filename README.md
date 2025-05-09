@@ -1,0 +1,1 @@
+runGitHub("stock", "fuxima")
